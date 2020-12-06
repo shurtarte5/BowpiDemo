@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoBowpi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_description">Add task</string>
+    <string name="task_to_add"> What is the task you want to add? </string>
+    <string name="create"> Create </string>
+    <string name="task_name"> task name </string>
+    <string name="task_description"> task description </string>
+</resources>

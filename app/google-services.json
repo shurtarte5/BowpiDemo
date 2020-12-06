@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414256316443",
+    "project_id": "bowpi-8720a",
+    "storage_bucket": "bowpi-8720a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414256316443:android:5a7bf6dd1f0af2256038be",
+        "android_client_info": {
+          "package_name": "com.hurtarte.demobowpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414256316443-pv19cm0hp2icl65k8bsffc424vikau2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqcLqNl3_hNCuKEWVVM09zK3wB4T4D-Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414256316443-pv19cm0hp2icl65k8bsffc424vikau2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
